@@ -1,0 +1,509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"transparent"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"blue",
+				"blue-darker"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"flex-end"
+			],
+			[
+				"flex-",
+				"flex-flow"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"nav",
+				"nav-list-item-link"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bg-",
+				"brand-gradient-soft"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"t",
+				"transition"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"media-bre",
+				"media-breakpoint-up"
+			],
+			[
+				"colu",
+				"column-gap"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"br",
+				"brand-gradient-soft"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"outline-",
+				"outline-color"
+			],
+			[
+				"out",
+				"outline-offset"
+			],
+			[
+				"outl",
+				"outline-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/isral/repos/dukedesignagency-landing"
+	],
+	"file_history":
+	[
+		"/Users/isral/Desktop/pure-layout-marketing/index.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/css/scss/_custom.scss",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/footer.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/nav-top.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/header.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/gallery.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/5.logos/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/content_basic.html",
+		"/Users/isral/repos/isralduke.com/site/content/assets/main.yaml",
+		"/Users/isral/repos/isralduke.com/site/content/pages/9.logos/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/gallery.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/contact-form.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/nav-items.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/css/isralduke.scss",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/site_description.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/contact.html",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/1.squiddle-ios-app.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/10.icon-samples.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/11.posters-for-band-tour.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/12.book-cover-for-faux-history-book.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/13.sports-marketing-ipad-apps.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/14.crane-data-system-marketing-assets.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/15.food-distributor-website.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/16.architectural-brochure.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/17.college-football-t-shirt.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/18.marathon-t-shirt.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/19.st-james-technologies-brand-assets.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/2.pinion-lms.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/20.brand-assets-for-roux-wine-and-spirits.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/21.magazine-print-ads-for-software-agency.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/22.marathon-marketing-collateral.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/23.wine-label.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/24.website-for-adoption-agency.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/25.patent-drawings.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/26.headset-illustration-for-sports-marketing-app.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/27.the-hermit-melody.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/28.asleep-until-i-am-ready.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/29.christmas-card-illustration-inspired-by-modularity.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/3.crane-data-system-ui.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/30.house-leveling-illustration.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/31.product-concept-illustrations.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/32.poster-competition-entry.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/33.blog-post-illustrations-stun-design.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/34.you-miss-shots-you-dont-take.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/35.theatrical-performance-poster.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/36.ios-app-mascot.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/37.conference-poster.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/38.digital-drivers-license.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/39.comic-page.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/4.software-suite-microsite.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/5.climate-calendar-concept.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/6.human-resources-poster-and-brochure.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/7.mission-statement-and-corporate-philosophy-book.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/8.catalog-of-training-courses.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/9.study-abroad-poster.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/40.maya-class-promo-posters.md",
+		"/Users/isral/repos/isralduke.com/site/content/globals/global.yaml",
+		"/Users/isral/repos/isralduke.com/site/content/pages/5.resume/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/layouts/default.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/nav.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/nav-bottom.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/8.thanks/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/1.digital-ux/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/page-title.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/8.contact/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/7.thanks/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/6.about/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/pager-pictoral.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/employment.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/certifications.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/skills.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/card-item-wide.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/references.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/education.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/content-project.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/site_title.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/card-item.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/project_list.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/project.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/btn-secondary.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/content_minimal.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/employment-context.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/random_projects.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/pager-pictoral-old.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/css/scss/_variables.scss",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/form-contact-simple.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/js/isralduke.js",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/css/scss/vendor/bootstrap/bootstrap.scss",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/js/isralduke-min.js",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/errors/404.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/8.posters/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/social-sharing.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/4.illustration/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/8.404/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/5.about/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/3.illustration/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/references/5.lynsey-jordan-gwin.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/nav-bottom.html",
+		"/Users/isral/repos/isralduke.com/README.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/index.md",
+		"/Users/isral/repos/isralduke.com/site/content/pages/3.resume/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/nav.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/cta_block.html",
+		"/Users/isral/repos/isralduke.com/site/settings/routes.yaml",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/layouts/sitemap.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/favicons.html",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/blocks.yaml",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/default.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/2.digital-ux/index.md",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/project_list.yaml",
+		"/Users/isral/repos/isralduke.com/site/content/pages/3.print-physical/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/snippets/image.html",
+		"/Users/isral/repos/isralduke.com/site/content/collections/certifications/2.information-design.md",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/templates/home.html",
+		"/Users/isral/repos/isralduke.com/site/content/collections/projects/folder.yaml",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/default.yaml",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/content_basic.yaml",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/partials/blocks/cta-block.html",
+		"/Users/isral/repos/isralduke.com/site/content/pages/1.about/index.md",
+		"/Users/isral/repos/isralduke.com/site/themes/redwood/templates/default.html",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke",
+		"/Users/isral/repos/isralduke.com/site/themes/isralduke/meta.yaml",
+		"/Users/isral/repos/isralduke.com/site/settings/assets.yaml",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/employer.yaml",
+		"/Users/isral/repos/isralduke.com/site/settings/fieldsets/content_minimal.yaml",
+		"/Users/isral/repos/isralduke.com/site/content/collections/employment_history/2.it-by-design.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/employment_history/1.freelance-designer.md",
+		"/Users/isral/repos/isralduke.com/site/content/collections/references/folder.yaml"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "duke design agency.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

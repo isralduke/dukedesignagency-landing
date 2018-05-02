@@ -1,0 +1,211 @@
+@import 'linearicons';
+@import 'font-awesome.min';
+@import 'nice-select';
+@import 'magnific-popup';
+@import 'bootstrap';
+@import 'main';
+@import 'ratios';
+@import 'variables';
+
+.color-white {
+	color: $white;
+}
+body {
+	background-image: linear-gradient(to bottom, $grey-dark, $black);
+}
+.header-top {
+	position: static;
+}
+.banner-area {
+	background: url(../img/trianglify.jpg) no-repeat center right/cover;
+}
+.banner-content h1, .banner-content .h1 {
+	@extend .color-white;
+	text-shadow: -10px 10px 20px darken($violet, 10%);
+}
+svg {
+	display: none;
+}
+.icon {
+	background-image: $brand-gradient-soft;
+	border-radius: 40px;
+	
+	&-svg {
+		display: block;
+		width: 128px; height: 128px;
+		fill: $white;
+	}
+}
+.logo {
+	max-width: 100%;
+
+	img {
+		max-width: 100%;
+	}
+}
+.main-wrapper, .main-wrapper-first {
+	margin-top: 0;
+	width: 100%;
+}
+.single-feature {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	h4 {
+		text-align: center;
+	}
+}
+.video-area {
+	background-image: url('../img/library.jpg');
+}
+.video-area .overlay-bg {
+    background-image: radial-gradient(50% 50%, circle closest-side, lighten($violet, 15%) 0%, darken($violet, 15%) 100%);
+}
+.story-area {
+	background-color: $blue;
+}
+.story-area:after {
+    background-image: url(../img/isral-duke-is-duke-design-agency.jpg);
+    opacity: .75;
+
+}
+.footer-area {
+	margin: 0;
+	box-shadow: inset 0 2px 4px $black;
+}
+.footer-menu {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+}
+h2, h4 {
+	font-family: ratio_heavyheavy, sans-serif;
+}
+.main-menubar {
+	width: 100%;
+}
+nav.navi {
+	
+	position: static;
+	top: unset; right: unset;
+	text-align: unset;
+	margin: unset;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+
+	a {
+		display: block;
+		flex: 1 0 calc(33% - 2px);
+		background-color: fade-out($blue,1); color: $white;
+		margin: 10px 0 0;
+		text-align: center;
+		transition: all 250ms ease-out;
+		border-radius: 4px;
+
+		&:hover, &:active {
+			background-color: fade-out($blue,0);
+		}
+	}
+}
+.scroll-top {
+	position: fixed;
+	bottom: 30px; right: 30px;
+	width: 40px; height: 40px;
+	color: $white;
+	background-image: $brand-gradient-soft;
+	background-clip: padding-box;
+	border: 4px solid fade-out($white, .75);
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: center;
+	z-index: 10;
+	@include media-breakpoint-up(sm){
+		bottom: 20px; right: 20px;
+		width: 80px; height: 80px;
+		font-size: 40px;
+	}
+	&:hover, &:active {
+		color: $white;
+	}
+}
+.white-btn {
+	border-color: $white;
+	background-color: transparent;
+	color: $white;
+	span {
+		color: inherit;
+	}
+}
+.form-btn {
+	background-color: $blue;
+	color: $white;
+	width: 150px;
+	span {
+		color: inherit;
+	}
+	&:after {
+		background: none;
+	}
+	&:hover {
+		color: $white;
+		span {
+			color: inherit;
+		}
+	}
+}
+p {
+	a {
+		background-color: fade-out($blue,1); color: $blue;
+		text-decoration: underline;
+		text-decoration-skip: ink;
+		text-decoration-skip-ink: auto;
+		transition: all 250ms ease-out;
+		&:hover, &:active {
+			background: fade-out($blue,0);
+			color: $white;
+		}
+	}
+}
+@media screen and (min-width: 767px){
+	.main-menubar {
+		width: auto;
+	}
+	nav.navi {
+		width: auto;
+		flex-flow: column nowrap;
+		a {
+			padding: 5px 10px;
+			flex: 1 0 calc(33% - 2px);
+			font-size: 20px;
+			margin: 0;
+		}
+	}
+}
+@media screen and (min-width: 990px){
+	
+	nav.navi {
+		
+		flex-flow: row nowrap;
+		a {
+			
+		}
+	}
+	.single-feature {
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: flex-start;
+		.icon {
+			margin-right: 20px;
+		}
+		h4 {
+			text-align: left;
+		}
+	}
+}
+@media screen and (min-width: 1200px){
+	
+}

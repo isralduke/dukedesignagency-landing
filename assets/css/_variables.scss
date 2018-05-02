@@ -1,0 +1,12 @@
+$blue: #0082BB;
+$violet: #952D98;
+$red: #E00034;
+$gold: #F5B400;
+$black: #000000;
+$white: #ffffff;
+$grey-dark: lighten($black, 25%);
+$grey: lighten($black, 50%);
+$grey-light: lighten($black, 75%);
+
+$brand-gradient-soft: linear-gradient(-45deg, $red 0%, $violet 52%, $blue 100%);
+$transitions: all 250ms ease-out;
